@@ -1,16 +1,12 @@
-# ecommerceapp
+# Simple E-Commerce App
 
-A new Flutter project.
+This is a simple E-Commerce app built using Flutter and Dart. The app allows users to browse a list of products, add them to a shopping cart, and remove items from the cart.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Browse a list of products with details such as name, price, and description.
+- Add products to the shopping cart.
+- Remove products from the shopping cart.
+- View the list of products in the shopping cart.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ->Backend for payment is under construction.
